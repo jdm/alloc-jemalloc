@@ -1,0 +1,4 @@
+[submodule "jemalloc"]
+	path = jemalloc
+	url = git://github.com/rust-lang/jemalloc.git
+	branch = rust-2016-02-25
